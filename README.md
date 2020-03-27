@@ -4,7 +4,7 @@
 
 ![Face Shield](/images/makers_asylum_shield_01.jpeg)
 ![Face Shield](/images/spec_sheet.jpeg)
-[![Watch the Video] (https://img.youtube.com/vi/ZetswSnk8Sk/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZetswSnk8Sk)
+[![Watch the Video] (http://i3.ytimg.com/vi/ZetswSnk8Sk/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZetswSnk8Sk)
 
 License
 -------
