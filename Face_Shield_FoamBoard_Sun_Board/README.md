@@ -11,9 +11,10 @@
 
 ## ASSEMBLY ##
 
-1. Cut the foam head band.
-2. Soak in Soap water for 30 minutes, and then in clean water for 30 minutes.
-3. Air dry in the Sun.
-4. Attach the elastic retention band.
-5. Apply foam along the area which comes in contact with the forehead. We used 2mm thick adhesive backed foam strips - about 10-15mm wide (approx 1/2 inch) and 200mm long (8 inches). This improves comfort over extended hours of use, but can be skipped, especially if the shield is already worn over other gear such as caps.
-6. Snap fit the clear OHP film shields. If you're shipping these, you can pack the head bands and OHP films separately and the end user's can easily assemble before use.
+1. Laser Cut the foam head band.
+2. Laser Cut the OHP film (slots to fit the tabs in the head band)
+3. Soak in Soap water for 30 minutes, and then in clean water for 30 minutes.
+4. Air dry in the Sun.
+5. Attach the elastic retention band.
+6. Apply foam along the area which comes in contact with the forehead. We used 2mm thick adhesive backed foam strips - about 10-15mm wide (approx 1/2 inch) and 200mm long (8 inches). This improves comfort over extended hours of use, but can be skipped, especially if the shield is already worn over other gear such as caps.
+7. Snap fit the clear OHP film shields. If you're shipping these, you can pack the head bands and OHP films separately and the end user's can easily assemble before use.
