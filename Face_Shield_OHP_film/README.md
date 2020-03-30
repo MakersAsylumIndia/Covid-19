@@ -4,9 +4,9 @@ The Open Source Face Shield was designed by [Uriel Eisen](https://www.instagram.
 Instruction and Face Shield illustrations by [Rachel Ciavarella](http://www.rachelciavarella.com/)
 Special thanks to Joseph Zoleta and the [Black 6 project team](https://black6project.org/) for distributing shields and producing the assembly video.
 
-Website : https://open-face-website.now.sh/
-About the Design and Team : https://open-face-website.now.sh/about
-Instructions : https://open-face-website.now.sh/instructions
+* Website : https://open-face-website.now.sh/
+* About the Design and Team : https://open-face-website.now.sh/about
+* Instructions : https://open-face-website.now.sh/instructions
 
 ## BoM ##
 
@@ -32,6 +32,6 @@ License
 -------
 [Creative Commons - Attribution 4.0 International (CC BY 4.0)]
 
-[CC BY 4.0]:https://creativecommons.org/licenses/by/4.0/
+[CC BY 4.0]: (https://creativecommons.org/licenses/by/4.0/)
 
-[Legal Code]: https://creativecommons.org/licenses/by/4.0/legalcode
+[Legal Code]: (https://creativecommons.org/licenses/by/4.0/legalcode)
