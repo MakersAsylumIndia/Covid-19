@@ -17,7 +17,7 @@ Special thanks to Joseph Zoleta and the [Black 6 project team](https://black6pro
 
 ## ASSEMBLY ##
 
-1. Cut the A3 OHP sheet. We added an extra head band strip in case the original is lost or tears.
+1. Laser Cut the A3 OHP sheet. We added an extra head band strip in case the original is lost or tears.
 2. Soak in Soap water for 30 minutes, and then in clean water for 30 minutes.
 3. Air dry in the Sun.
 4. Attach the head band, face shield and elastic retention band in a single step.
