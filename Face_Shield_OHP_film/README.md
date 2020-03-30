@@ -30,8 +30,8 @@ Special thanks to Joseph Zoleta and the [Black 6 project team](https://black6pro
 
 License
 -------
-[Creative Commons - Attribution 4.0 International (CC BY 4.0)]
+Creative Commons - Attribution 4.0 International (CC BY 4.0)
 
-[CC BY 4.0]: (https://creativecommons.org/licenses/by/4.0/)
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-[Legal Code]: (https://creativecommons.org/licenses/by/4.0/legalcode)
+[Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode)
