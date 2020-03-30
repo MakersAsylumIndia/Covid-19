@@ -2,10 +2,10 @@
 * [Campaign page](https://www.ketto.org/fundraiser/10000-face-shields-for-covid19-in-india?payment=form)
 * [Makers Asylum Website](https://www.makersasylum.com/)
 
-###THERE ARE THREE VERSIONS###
-* [1. ACRYLIC](/Face_Shield_acrylic)
-* [2. FOAM (Foam Board / Sun Board)](/Face_Shield_FoamBoard_Sun_Board)
-* [3. OHP Film only](/Face_Shield_OHP_film)
+### THERE ARE THREE VERSIONS ###
+* [ACRYLIC](/Face_Shield_acrylic)
+* [FOAM (Foam Board / Sun Board)](/Face_Shield_FoamBoard_Sun_Board)
+* [OHP Film only](/Face_Shield_OHP_film)
 
 ![Face Shield](/images/makers_asylum_shield_01.jpeg)
 ![Face Shield](/images/spec_sheet.jpeg)
