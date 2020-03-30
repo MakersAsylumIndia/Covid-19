@@ -11,7 +11,7 @@
 
 ## ASSEMBLY ##
 
-1. Cut the Acrylic head band.
+1. Laser Cut the Acrylic head band.
 2. Soak in Soap water for 30 minutes, and then in clean water for 30 minutes.
 3. Air dry in the Sun.
 4. Apply surgical plaster tape over the living hinges. This allows the band to be used if the living hinges break (Acrylic is brittle). We have used broken bands for over 8 hours at a stretch wthout problems. If you'd like to avoid this step altogether, take a look at the foam board design.
