@@ -7,7 +7,7 @@
 * [FOAM (Foam Board / Sun Board)](/Face_Shield_FoamBoard_Sun_Board)
 * [OHP Film only](/Face_Shield_OHP_film)
 
-![Face Shield](/images/makers_asylum_shield_01.jpeg)
+![Face Shield](/images/makers_asylum_shield_acrylic.jpeg)
 ![Face Shield](/images/spec_sheet.jpeg)
 
 ## WATCH THE VIDEO
