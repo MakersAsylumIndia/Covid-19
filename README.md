@@ -4,7 +4,7 @@
 
 ### THERE ARE THREE VERSIONS ###
 * [ACRYLIC](/Face_Shield_M-19/Acrylic)
-* [FOAM (Foam Board / Sun Board)](/Face_Shield_M-19/SunBoard)
+* [FOAM (Foam Board / Sun Board)](/Face_Shield_M-19/Sunboard)
 * [OHP Film only](/Face_Shield_OHP_film)
 
 ![Face Shield](/images/makers_asylum_shield_acrylic.jpeg)
