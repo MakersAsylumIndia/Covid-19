@@ -3,8 +3,8 @@
 * [Makers Asylum Website](https://www.makersasylum.com/)
 
 ### THERE ARE THREE VERSIONS ###
-* [ACRYLIC](/Face_Shield_acrylic)
-* [FOAM (Foam Board / Sun Board)](/Face_Shield_FoamBoard_Sun_Board)
+* [ACRYLIC](/Face_Shield_M-19/Acrylic)
+* [FOAM (Foam Board / Sun Board)](/Face_Shield_M-19/SunBoard)
 * [OHP Film only](/Face_Shield_OHP_film)
 
 ![Face Shield](/images/makers_asylum_shield_acrylic.jpeg)
