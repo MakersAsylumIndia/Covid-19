@@ -24,8 +24,8 @@
 
 ## IMAGES ##
 
-![Face Shield](/images/M-19_v100k_01.png)
-![Face Shield](/images/M-19_v100k_02.png)
-![Face Shield](/images/M-19_v100k_03.png)
-![Face Shield](/images/M-19_v100k_04.png)
-![Face Shield](/images/M-19_v100k_05.png)
+![Face Shield](images/M-19_v100k_01.png)
+![Face Shield](images/M-19_v100k_02.png)
+![Face Shield](images/M-19_v100k_03.png)
+![Face Shield](images/M-19_v100k_04.png)
+![Face Shield](images/M-19_v100k_05.png)
