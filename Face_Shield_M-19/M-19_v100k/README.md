@@ -13,9 +13,9 @@
 
 1. Laser Cut the foam head band.
 2. Laser Cut the OHP film (holes to fit the tabs in the head band)
-	a. ALTERNATIVELY, you can use a regular hole punch (commonly used to punch holes in paper for document filing).
-	b. The punch hole locations are as per ISO 838 - four 6mm dia holes spaced 80 mm apart, spread out equidistant from centre of the paper.
-	c. If you do not have a four hole punch, you can fold the OHP in half (do NOT crease it from the middle) and use the common hole punch machine. You may have to set a marking or gauge to punch the holes 28.5 from the edge of the OHP.
+	* ALTERNATIVELY, you can use a regular hole punch (commonly used to punch holes in paper for document filing).
+	* The punch hole locations are as per ISO 838 - four 6mm dia holes spaced 80 mm apart, spread out equidistant from centre of the paper.
+	* If you do not have a four hole punch, you can fold the OHP in half (do NOT crease it from the middle) and use the common hole punch machine. You may have to set a marking or gauge to punch the holes 28.5 from the edge of the OHP.
 3. Soak in Soap water for 30 minutes, and then in clean water for 30 minutes.
 4. Air dry in the Sun.
 5. Attach the elastic retention band.
@@ -24,8 +24,8 @@
 
 ## IMAGES ##
 
-![Face Shield](/images/M-19_v100k_01.png)
-![Face Shield](/images/M-19_v100k_02.png)
-![Face Shield](/images/M-19_v100k_03.png)
-![Face Shield](/images/M-19_v100k_04.png)
-![Face Shield](/images/M-19_v100k_05.png)
+![Face Shield](images/M-19_v100k_01.png)
+![Face Shield](images/M-19_v100k_02.png)
+![Face Shield](images/M-19_v100k_03.png)
+![Face Shield](images/M-19_v100k_04.png)
+![Face Shield](images/M-19_v100k_05.png)
