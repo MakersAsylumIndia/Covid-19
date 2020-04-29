@@ -1,5 +1,8 @@
 # Face Shield FOAM BOARD / SUN BOARD v100k Version #
 
+## PUNCH ##
+This design is modified from the laser cut version so it can be cut using a die-punch. This process requires a minimum of 1mm clearances between cutting lines, so the OHP retention slot is made wider, and the two elastic band slots are reduced to one.
+
 ## BoM ##
 
 1. HEAD BAND : Foam Board / Sun Board sheet, between 3mm to 5mm thick, (RED is Engraved Text)
@@ -22,10 +25,4 @@
 6. Apply foam along the area which comes in contact with the forehead. We used 2mm thick adhesive backed foam strips - about 10-15mm wide (approx 1/2 inch) and 200mm long (8 inches). This improves comfort over extended hours of use, but can be skipped, especially if the shield is already worn over other gear such as caps.
 7. Snap fit the clear OHP film shields. If you're shipping these, you can pack the head bands and OHP films separately and the end user's can easily assemble before use.
 
-## IMAGES ##
 
-![Face Shield](images/M-19_v100k_01.png)
-![Face Shield](images/M-19_v100k_02.png)
-![Face Shield](images/M-19_v100k_03.png)
-![Face Shield](images/M-19_v100k_04.png)
-![Face Shield](images/M-19_v100k_05.png)
