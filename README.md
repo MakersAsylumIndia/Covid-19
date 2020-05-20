@@ -14,7 +14,6 @@
 
 
 ![Face Shield](/images/makers_asylum_shield_acrylic.jpeg)
-![Face Shield](/images/spec_sheet.jpeg)
 
 ## WATCH THE VIDEO
 [![Watch the Video](https://i3.ytimg.com/vi/ZetswSnk8Sk/hqdefault.jpg)](https://www.youtube.com/watch?v=ZetswSnk8Sk)
